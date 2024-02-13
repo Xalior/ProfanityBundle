@@ -30,5 +30,6 @@
     },
     "autoload": {
         "psr-4": {"Vangrg\\ProfanityBundle\\": ""}
-    }
+    },
+    "version": "1.0.0" 
 }
