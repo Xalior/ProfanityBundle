@@ -109,8 +109,9 @@ class Post
 # Remarks
 
 This is a fork of [ivan-griga/ProfanityBundle](https://github.com/ivan-griga/ProfanityBundle), 
-added for testing and upgrading this bundle to be compatible with Symfony>4 and a few small
-extra features.
+created for upgrading this bundle to be compatible with Symfony > 4.x plus add a few small
+quality of life "extra features", such as reporting the profane words, and ability to use as
+the starter for your own bundle.
 
 Bundle is built on the basis of the library https://github.com/mofodojodino/ProfanityFilter
 with an improvement in the logic of the filter.
