@@ -37,9 +37,5 @@
             "url": "https://github.com/Xalior/ProfanityBundle"
         }
     ],
-    "extra": {
-        "branch-alias": {
-            "dev-master": "1.0.x-dev"
-        }
-    }
+    "version": "1.0.0" 
 }
