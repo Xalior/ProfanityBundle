@@ -106,6 +106,11 @@ class Post
 }
 ```
 
-# Remark
-Bundle is built on the basis of the library 
-https://github.com/mofodojodino/ProfanityFilter with an improvement in the logic of the filter
+# Remarks
+
+This is a fork of [ivan-griga/ProfanityBundle](https://github.com/ivan-griga/ProfanityBundle), 
+added for testing and upgrading this bundle to be compatible with Symfony>4 and a few small
+extra features.
+
+Bundle is built on the basis of the library https://github.com/mofodojodino/ProfanityFilter
+with an improvement in the logic of the filter.
